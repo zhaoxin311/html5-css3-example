@@ -5,5 +5,6 @@
       哒哒哒哒哒哒多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多多
       page
     </h1>
+    <span> zhaoxin have to study！now！！！</span>
   </div>
 </template>
