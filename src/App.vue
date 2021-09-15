@@ -2,7 +2,8 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/v-if">v-if 实例</router-link> | 
+      <router-link to="/v-for">v-for 实例</router-link> | 
     </div>
     <router-view />
   </div>
