@@ -1,13 +1,10 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <hr>
+    <hr />
     <ul>
       <li>
-        <a
-          href=""
-          >v-if & v-else & v-show 实例l</a
-        >
+        <a href="">v-if & v-else & v-show 实例l</a>
       </li>
       <li>
         <a
