@@ -8,7 +8,9 @@
       <router-link to="/v-on">v-on 实例</router-link> |
       <router-link to="/v-model">v-model 指令 实例</router-link> |
       <router-link to="/v-bind">v-bind 指令 实例</router-link> |
-      <router-link to="/v-pre">其他指令 实例</router-link> |
+      <router-link to="/v-pre">其他指令 实例</router-link>
+      <br />
+      <router-link to="/directive">vue.directive 自定义指令</router-link> |
     </div>
     <router-view />
   </div>

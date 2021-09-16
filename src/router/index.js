@@ -45,6 +45,11 @@ const routes = [
     name: "v-pre",
     component: () => import("../views/example/v-pre.vue"),
   },
+  {
+    path: "/directive",
+    name: "directive",
+    component: () => import("../views/example2/vue.directive.vue"),
+  },
 ];
 
 const router = new VueRouter({
