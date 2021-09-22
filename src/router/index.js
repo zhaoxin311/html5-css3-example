@@ -45,6 +45,16 @@ const routes = [
     name: "v-pre",
     component: () => import("../views/example/v-pre.vue"),
   },
+  {
+    path: "/extend",
+    name: "extend",
+    component: () => import("../views/ex3/vue.extend.vue"),
+  },
+  {
+    path: "/set",
+    name: "set",
+    component: () => import("../views/ex3/vue.set.vue"),
+  },
 ];
 
 const router = new VueRouter({
