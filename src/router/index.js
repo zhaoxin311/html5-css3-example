@@ -46,6 +46,7 @@ const routes = [
     component: () => import("../views/example/v-pre.vue"),
   },
   {
+<<<<<<< HEAD
     path: "/extend",
     name: "extend",
     component: () => import("../views/ex3/vue.extend.vue"),
@@ -54,6 +55,11 @@ const routes = [
     path: "/set",
     name: "set",
     component: () => import("../views/ex3/vue.set.vue"),
+=======
+    path: "/directive",
+    name: "directive",
+    component: () => import("../views/example2/vue.directive.vue"),
+>>>>>>> 43defd3df17ae7d3a9bf054e995a2dd18abc37d6
   },
 ];
 
